@@ -3,7 +3,7 @@
 </h1>
 
 
-<img align="left" src="https://github.com/fufulola.png" width="308" border-radius="50%"/>
+<img align="left" src="https://github.com/fufulola.png" width="308" style="border-radius=50%"/>
 
 ```haskell
 fufulola@github
