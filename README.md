@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">
+  <i> hewwo~ welcome to my page! </i>
+</h1>
 
-<!--
-**fufulola/fufulola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="left" src="https://github.com/fufulola.png" width="308" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```haskell
+fufulola@github
+------------------------------
+os       • endeavouros x86_64
+shell    • fish 3.3.1
+wms      • worm
+
+pronouns • he/him
+language • html, java, node.js,
+           bash, c#, python.
+hobbies  • gaming, code,
+           watching anime, drink Fanta.
+discord  • fufu_lola❤🤍#0001
+
+repos    • 9
+commits  • 257
+issues   • 9
+```
