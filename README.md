@@ -1,5 +1,5 @@
 <h1 align="center">
-  <i> hewwo~ welcome to my page! </i>
+  <i> Welcome to my page! </i>
 </h1>
 
 
