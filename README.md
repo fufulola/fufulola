@@ -6,7 +6,7 @@
 
 ###
 
-Konnichiwa! Je suis fufu_lola, une passionnée de la culture UwU, de l'animation et des jeux vidéo. 🎮🌟
+Konnichiwa! Je suis fufu_lola, une passionnée de la culture japonaise, des animes et des jeux vidéo. 🎮🌟
 
 ###
 
@@ -21,7 +21,7 @@ Konnichiwa! Je suis fufu_lola, une passionnée de la culture UwU, de l'animation
 
 ## Mes réalisations
 - **4uwu.org :** Un espace où les fans d'UwU peuvent se retrouver et partager leurs passions.
-- **Autres projets :** [Liste des projets ici]
+- **Autres projets :** comming soon
 
 ## Parlons !
 Si tu es intéressé par la culture UwU, les animes, ou si tu as des projets intéressants en JS, SQL, Java, ou Python, n'hésite pas à me contacter !
