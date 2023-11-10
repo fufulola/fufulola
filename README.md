@@ -10,7 +10,7 @@ Konnichiwa! Je suis fufu_lola, une passionnée de la culture UwU, de l'animation
 
 ###
 
-<img align="right" height="150" src="https://github.com/fufulola.png"  />
+<img align="right" height="150" src="https://rlzojomxcbdkcpdzgtjq.supabase.co/storage/v1/object/public/images/62877954.png"  />
 
 ###
 
