@@ -11,6 +11,7 @@
   - JavaScript (JS)
   - PowerShell
   - Python
+  - Java
 
 - **Technologies et outils :**
   - Docker
